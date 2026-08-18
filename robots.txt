@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zm60li.absolutebeachview.co.nz/sitemap.xml
